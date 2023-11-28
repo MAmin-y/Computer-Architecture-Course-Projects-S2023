@@ -1,0 +1,3 @@
+        addi x6,x0,500
+        addi x8,x0,1000
+	sub x9,x8,x6
